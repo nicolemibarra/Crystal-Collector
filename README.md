@@ -11,4 +11,4 @@ You win the game and get a gold star by making your counter equal the random num
        
 Each time when the game starts, the game will change the values of each crystal.
 
-![alt text](unit-4-game/assets/images/Crystal Collector Screen Shot .png)
+![alt text](https://github.com/nicolemibarra/unit-4-game/blob/master/assets/images/Crystal%20Collector%20Screen%20Shot%20.png)
