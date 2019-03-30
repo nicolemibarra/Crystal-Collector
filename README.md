@@ -1,5 +1,4 @@
-# unit-4-game
-Crystal Collector!
+# Crystal Collector!
 
 Instructions
 
